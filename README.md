@@ -6,8 +6,8 @@
   <br />
   ## <a name="links">🔗 Links</a>
 
-Public Assets used in the project can be found
-[here](https://drive.google.com/file/d/1syHiNxSIGXVApaIozdrLXM2x5dPhvaJL/view?usp=sharing)
+  <!-- Public Assets used in the project can be found
+  [here](https://drive.google.com/file/d/1syHiNxSIGXVApaIozdrLXM2x5dPhvaJL/view?usp=sharing) -->
 
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
